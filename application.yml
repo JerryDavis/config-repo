@@ -5,6 +5,10 @@ management:
 security:
   basic:
     enabled: false
+spring:
+  cloud:
+    service:
+      registrationMethod: direct
 
 logging:
   level:
