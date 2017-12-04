@@ -5,6 +5,7 @@ management:
 security:
   basic:
     enabled: false
+
 spring:
   cloud:
     service:
